@@ -1,14 +1,14 @@
   const projets = [
     {
-      titre: "Site Star Wars – Première Trilogie",
-      description: "Site web immersif inspiré de la trilogie originale.",
+      titre: "Site Star Wars Première Trilogie",
+      description: "Site web inspiré de la trilogie originale.",
       technologie: "VSCode / HTML / CSS",
       lien: "https://star-wars1-kappa.vercel.app/",
       image: "./assets/apercu Star Wars .png"
     },
     {
-      titre: "Culture&Co – Application Culturelle",
-      description: "Maquette interactive d'une application d'informations culturelles.",
+      titre: "Culture&Co ",
+      description: "Maquette interactive d'un site internet d'informations culturelles.",
       technologie: "Figma",
       lien: "https://www.figma.com/design/NGawnH0dal11uffqVP0tg4/Projet-Culture-Co-Adem",
       image: "./assets/apercu culture&co.png"
