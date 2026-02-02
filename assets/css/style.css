@@ -46,8 +46,7 @@ body {
 }
 
 .site-header h1 {
-  color: white;
-  font-size: 64px;
+  color: red;
 }
 .site-header p {
   color: white;
